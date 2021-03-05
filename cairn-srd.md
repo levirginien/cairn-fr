@@ -4,72 +4,74 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document
+# Document de référence du système Cairn
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+**Cairn** est sous license [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Consultez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (y compris Word, Affinity, Google Docs, etc).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** est un jeu d'aventure pour un·e facilitateur·trice (l'**Arbitre**) et au moins un·e autre joueur.euse.
+Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt sombre et mystérieuse, remplie d’étranges individus, de trésors cachés et de monstruosités innommables. 
 
 ## Index
-- [Overview](#overview)
-- [Principles for Wardens](#principles-for-wardens)
-- [Principles for Players](#principles-for-players)
-- [Character Creation](#character-creation)
-- [Equipment](#equipment-list-prices-in-gold-pieces)
-- [Rules](#rules)
-- [Bestiary](#bestiary)
-- [100 Spells](#100-spells)
-- [Rules Summary](#rules-summary)
+- [Vue d'ensemble](#vue-d'ensemble)
+- [Principes de l'Arbitre](#principes-de-l'arbitre)
+- [Principles du groupe-joueur](#principes-du-groupe-joueur)
+- [Création de personnage](#création-de-personnage)
+- [Équipement](#equipment-list-prices-in-gold-pieces)
+- [Règles](#règles)
+- [Bestiaire](#bestiaire)
+- [100 sorts](#100-sorts)
+- [Résumé des règles](#résumé-des-règles)
 
 
 
-## Overview
+## Vue d'ensemble
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** a été écrit en tenant compte des philosophies de conception suivantes :
 
-### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Neutralité  
+Le rôle de l'Arbitre est de présenter clairement les règles, les situations, les PNJ et le récit, tout en agissant de manière neutre.
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+### Pas de classe de personnage  
+Le rôle d’un personnage n’est pas limité par une unique classe. C’est l’équipement porté qui définit plutôt sa spécialité.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Mort
+Les personnages des joueurs sont peut-être puissants, mais ils sont également vulnérables au danger sous toutes ses formes. La Mort rôde toujours dans les parages, mais elle ne survient jamais par hasard ou sans avertissement. 
 
-### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### La fiction d'abord 
+Les dés ne reflètent pas toujours la difficulté d'un obstacle ou son résultat. Au contraire, le succès et l'échec sont arbitrés en dialogue avec les joueurs, sur la base d'éléments du monde réel.
 
-### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Progression  
+Les personnages sont modifiés grâce à une progression diégétique (au cours de la narration), ce qui leur permet d'acquérir de nouvelles compétences et capacités en survivant à des événements dangereux et en surmontant des obstacles.
 
-### Player Choice  
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### Le choix des joueur·euse·s  
+Les membres du groupe-joueur doivent toujours comprendre les raisons qui sous-tendent leurs choix, et les informations sur les risques potentiels doivent être fournies ouvertement et fréquemment.
 
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Principes  
+L'Arbitre et le groupe-joueur ont chacun des directives qui aident à favoriser une expérience de jeu spécifique, définie par l'esprit critique, l'exploration et un récit émergent.
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
-[back to index](#index)
+### Objectifs communs
+Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans le cadre commun, les objectifs des personnages et les défis rencontrés. Par conséquent, les membres du groupe travaillent principalement en équipe pour atteindre un objectif commun.
+
+
+[retour à l'index](#index)
 <p></p>
 
-## Principles for Wardens
+## Principes de l'Arbitre
 ### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- Fournir des informations utiles sur l'univers du jeu au fur et à mesure que les personnages l'explorent.
+- Les membres du groupe-joueur n'ont pas besoin de lancer les dés pour connaître leur situation.
+- Soyez utile et direct dans vos réponses à leurs questions.
+- Répondez honnêtement, décrivez de manière cohérente et faites-leur savoir qu'il est possible de continuer à poser des questions.
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Difficulté
+- Privilégiez le contexte et le réalisme plutôt que les chiffres et la mécanique.
+- Si quelque chose qu'un personnage veut faire est sincèrement impossible, aucun jet ne lui permettra de le faire.
+- Si les membres du groupe-joueur tirent judicieusement parti de la situation : laissez-les faire.
+- Les jets de sauvegarde couvrent un grand nombre de situations incertaines, et sont souvent tout ce qui est nécessaire pour des actions risquées.
 
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
