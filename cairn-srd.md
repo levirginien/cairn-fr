@@ -145,9 +145,6 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 [retour à l'index](#index)
 <p></p>
 
-[back to index](#index)
-<p></p>
-
 ## Character Creation
 
 **Name, Background & Traits**  
