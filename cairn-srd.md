@@ -96,16 +96,16 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 - Les reliques ne sont pas des trésors, bien qu'elles soient utiles et intéressantes.
 - Utilisez les trésors comme des leurres vers des destinations exotiques sous la protection d'ennemis intimidants.
 
-### Choice  
-- Give players a solid choice to force outcomes when the situation  lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together with this conversational progress to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+### Choix  
+- Donner aux joueurs un choix solide pour forcer les résultats lorsque la situation ralentit.
+- Utilisez des réponses binaires "alors, A ou B ?" lorsque leurs intentions sont vagues.
+- Travaillez ensemble avec cette progression conversationnelle pour faire avancer le jeu.
+- Veillez à ce que les actions du personnage du joueur laissent leur marque dans le monde du jeu.
 
-### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge,etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Dé du Destin  
+- Parfois, vous voudrez un élément de hasard (par exemple, pour déterminer la météo, une connaissance particulière d'un personnage, etc.)
+- Dans ces situations, lancez 1d6. Un jet de 4 ou plus favorise généralement les joueurs.
+- Un jet de 3 ou moins tend à se traduire par une malchance pour les PJ ou leurs alliés.
 
 [back to index](#index)
 <p></p>
@@ -225,12 +225,11 @@ If you would like something closer to traditional classes, refer to the list of 
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Butcher   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Burglar   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
-
+|1           |Alchimiste |6          |Clerc     |11        |Magicien |16    |Artiste |
+|2           |Forgeron|7          |Parieur    |12        |Mercenaire|17    |Pickpocket|
+|3           |Boucher   |8          |Pilleur de tombes|13        |Marchand |18    |Contrebandier  |
+|4           |Cambrioleur   |9          |Herboriste  |14        |Mineur    |19    |Serviteur   |
+|5           |Charpentier |10         |Chasseur     |15        |Hors-la-loi   |20    |Rôdeur    |
 <p></p>
 
 ## Character Traits (d10)
