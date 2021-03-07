@@ -16,7 +16,7 @@ Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt 
 
 ## Index
 - [Vue d'ensemble](#vuedensemble)
-- [Principes de l'Arbitre](#principes-de-l'arbitre)
+- [Principes de l'Arbitre](#principearbitre)
 - [Principles du groupe-joueur](#principes-du-groupe-joueur)
 - [Création de personnage](#création-de-personnage)
 - [Équipement](#equipment-list-prices-in-gold-pieces)
@@ -60,7 +60,7 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 [retour à l'index](#index)
 <p></p>
 
-## Principes de l'Arbitre
+## Principes de l'Arbitre <a name="principearbitre"></a>
 ### Information
 - Fournir des informations utiles sur l'univers du jeu au fur et à mesure que les personnages l'explorent.
 - Les membres du groupe-joueur n'ont pas besoin de lancer les dés pour connaître leur situation.
