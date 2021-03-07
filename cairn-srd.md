@@ -15,7 +15,7 @@ Consultez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu 
 Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt sombre et mystérieuse, remplie d’étranges individus, de trésors cachés et de monstruosités innommables. 
 
 ## Index
-- [Vue d'ensemble](#vue-d'ensemble)
+- [Vue d'ensemble](#vuedensemble)
 - [Principes de l'Arbitre](#principes-de-l'arbitre)
 - [Principles du groupe-joueur](#principes-du-groupe-joueur)
 - [Création de personnage](#création-de-personnage)
@@ -27,7 +27,7 @@ Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt 
 
 
 
-## Vue d'ensemble
+## Vue d'ensemble <a name="vuedensemble"></a>
 
 **Cairn** a été écrit en tenant compte des philosophies de conception suivantes :
 
