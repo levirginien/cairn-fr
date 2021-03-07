@@ -73,11 +73,11 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 - Si les membres du groupe-joueur tirent judicieusement parti de la situation : laissez-les faire.
 - Les jets de sauvegarde couvrent un grand nombre de situations incertaines, et sont souvent tout ce qui est nécessaire pour des actions risquées.
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+### Préparation
+- L'univers du jeu est organique, malléable et aléatoire. Il fonctionne à l'intuition et fait des virages serrés.
+- Utilisez des tables et des générateurs aléatoires pour développer des situations plutôt que des histoires ou des intrigues.
+- Les PNJ se souviennent de ce que les joueurs disent et font à eux et au monde qui les entoure.
+- Les PNJ ne veulent pas mourir. Donnez à chaque personnage la volonté de survivre et la volonté de servir ses propres intérêts.
 
 ### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
