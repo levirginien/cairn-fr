@@ -18,7 +18,7 @@ Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt 
 - [Vue d'ensemble](#vuedensemble)
 - [Principes de l'Arbitre](#principsearbitre)
 - [Principes du groupe-joueur](#principesjoueur)
-- [Création de personnage](#création-de-personnage)
+- [Création de personnage](#creationdepersonnage)
 - [Équipement](#equipment-list-prices-in-gold-pieces)
 - [Règles](#règles)
 - [Bestiaire](#bestiaire)
