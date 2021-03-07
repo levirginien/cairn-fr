@@ -79,22 +79,22 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 - Les PNJ se souviennent de ce que les joueurs disent et font à eux et au monde qui les entoure.
 - Les PNJ ne veulent pas mourir. Donnez à chaque personnage la volonté de survivre et la volonté de servir ses propres intérêts.
 
-### Narrative Focus  
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Focus narratif  
+- Ce qui compte, c'est l'expérience émergente du jeu, et non pas les mathématiques ou les capacités des personnages. Donnez aux joueurs des maîtres d'armes et des quêtes personnelles pour faciliter leur amélioration et leur spécialisation.
+- Faites attention aux besoins et aux désirs des joueurs, puis mettez des opportunités réalistes sur leur chemin.
+- Un poignard à la gorge vous tuera, quels que soient votre armure coûteuse et votre entraînement impressionnant.
 
 ### Danger  
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- L'univers du jeu comporte des risques réels de douleur et de mort pour les personnages du joueur.
+- Télégraphiez un danger sérieux aux joueurs lorsqu'il est présent. Plus il est dangereux, plus il doit être évident.
+- Placez les pièges à la vue de tous et laissez les joueurs prendre le temps de trouver une solution.
+- Donnez aux joueurs la possibilité de résoudre les problèmes et d'interagir avec le monde
 
-### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### Trésor 
+- Un Trésor est spécifique à l'environnement dans lequel il est récupéré. Il raconte une histoire.
+- Un trésor a une grande valeur, est presque toujours encombrant et est rarement utile au-delà de sa valeur et de son prestige.
+- Les reliques ne sont pas des trésors, bien qu'elles soient utiles et intéressantes.
+- Utilisez les trésors comme des leurres vers des destinations exotiques sous la protection d'ennemis intimidants.
 
 ### Choice  
 - Give players a solid choice to force outcomes when the situation  lulls.
