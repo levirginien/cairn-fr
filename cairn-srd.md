@@ -107,40 +107,43 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 - Dans ces situations, lancez 1d6. Un jet de 4 ou plus favorise généralement les joueurs.
 - Un jet de 3 ou moins tend à se traduire par une malchance pour les PJ ou leurs alliés.
 
-[back to index](#index)
+[retour à l'index](#index)
 <p></p>
 
-## Principles for Players <a name="principesjoueur"></a>
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+## Principes du groupe-joueur <a name="principesjoueur"></a>
+### Puissance d'agir
+- Les caractéristiques et jets de sauvegardes associés ne définissent pas votre personnage. Ce sont des outils
+- Ne vous demandez pas seulement ce que votre personnage ferait, mais ce que vous feriez aussi.
+- Soyez créatif avec votre intuition, vos objets et vos relations.
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+### Travail d'équipe
+- Obtenez le concensus des autres membres avant de foncer à toute pompe.
+- Restez sur la même longueur d'onde en ce qui concerne vos objectifs et vos limites. Respectez-vous et travaillez plus souvent en équipe qu'individuellement.
 
 ### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+- Poser des questions et être à l'écoute des détails est plus utile que les caractéristiques, objets ou compétences que vous avez.
+- Ne vous méfiez pas des descriptions de l'Arbitre, mais ne vous gênez pas pour demander plus d'informations.
+- Il n'y a pas une seule façon de progresser.
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+### Interactions
+- Traitez chaque PNJ comme de vraies personnes et fiez-vous à votre curiosité pour recueillir de l'information et résoudre les problèmes en toute sécurité.
+- Vous constaterez que la plupart des gens sont intéressants et voudront discuter avant de recourir à la violence.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Prudence
+- Se battre est rarement un choix judicieux. Demandez-vous si la violence est le meilleur moyen d'atteindre vos objectifs.
+- Mettez toutes les chances de votre côté et battez en retraite si les choses tournent mal.
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance,subtlety,and fact-finding.
-- Do some research and ask around about your objectives.
+### Planification
+- Pensez à des moyens de surmontez vos obstacles par la reconnaissance, la subtilité et la cueillette d'information.
+- Faites des recherches et interrogez-vous sur vos objectifs.
 
 ### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Fixez des objectifs et utilisez vos maigres moyens pour avancer.
+- Attendez-vous à tout. Méritez votre renommée.
+- Faites avancer les choses et jouez pour voir ce qui se passe.
+
+[retour à l'index](#index)
+<p></p>
 
 [back to index](#index)
 <p></p>
