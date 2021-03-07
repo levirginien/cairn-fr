@@ -145,24 +145,23 @@ Les membres du groupe-joueur se font mutuellement confiance pour s'investir dans
 [retour à l'index](#index)
 <p></p>
 
-## Character Creation
+## Création de personnage <a name="creationdepersonnage"></a>
 
-**Name, Background & Traits**  
-First, choose or roll a **name** for your character from the [**Name & Background**](#name--background-d20) tables, then their **background**, which informs their knowledge and potential skills.
+**Nom, parcours et traits**  
+Premièrement, choisissez un **nom** pour votre personnage ou lancez les dés sur les tableaux [**Noms et parcours**](#name--background-d20). Lancez ensuite les dés pour connaitre son **parcours**. Les connaisances et talents de votre personnage en découleront.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Lancez ensuite les dés pour connaître les **traits** de votre personnage (apparence, discours, maniérisme, croyances, réputation, etc.) sur le tableau [**Traits de personnage**](#character-traits-d10).
 
-Finally, roll for their **age** (2d20+10).
+Finalement, lancez les dés pour connaître son **âge** (2d20+10).
 
-#### Ability Scores  
-Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+#### Caractéristiques
+Les personnages-joueurs (PJ) n'ont seulement que trois caractéristiques: **Force (FOR)**, **Dextérité (DEX)** et **Volonté (VOL)**. Lors de la création d'un PJ, lancez 3d6 pour chaque caractéristiques, dans l'ordre. Vous pouvez ensuite échanger deux résultats.
 
-**Example:**   
-Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6** , totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL** . She decides to swap the **12** and the **9** , for a character with **9 STR** , **12 DEX** and **13** **WIL**.
+**Exemple:**  
+Ines lance les dés pour connaître la **FOR** de son PJ. Les dés affichent **2**, **4** et **6**, pour un total de **12**. Les résultats pour la **DEX** et la **VOL** sont respectivement **9** et **13**. Ines décide d'échanger le **12** et le **9**, pour un PJ ayant **9 FOR**, **12 DEX** et **13 VOL**.
 
-### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
+### Points de protection
+Lancez 1d6 afin de connaître les **Points de protection** (PP) de départ de votre PJ. Ce score reflète la capacité du personnage à éviter les coups en combat. Les PP n'indiquent en rien la santé ou la vigueur du personnage et ils ne sont jamais perdus bien longtemps (voir **Guérison**). Si une attaque réduit les PP d'un PJ à exactement 0, les dés doivent être lancés sur le tableau **Cicatrices**.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
