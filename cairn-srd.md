@@ -221,7 +221,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
 |5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Background
+#### Historique
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
