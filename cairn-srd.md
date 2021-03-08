@@ -163,14 +163,14 @@ Ines lance les dés pour connaître la **FOR** de son PJ. Les dés affichent **2
 ### Points de protection
 Lancez 1d6 afin de connaître les **Points de protection** (PP) de départ de votre PJ. Ce score reflète la capacité du personnage à éviter les coups en combat. Les PP n'indiquent en rien la santé ou la vigueur du personnage et ils ne sont jamais perdus bien longtemps (voir **Guérison**). Si une attaque réduit les PP d'un PJ à exactement 0, les dés doivent être lancés sur le tableau **Cicatrices**.
 
-#### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+#### Inventaire
+Les personnages ont un total de 10 emplacements d'inventaire : un sac à dos avec six emplacements, un pour chaque main, et deux pour le haut du corps (comme la ceinture, la poitrine ou la tête). Le sac à dos peut également servir de sac de couchage d'urgence, mais uniquement s'il est vidé de son contenu.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+La plupart des objets occupent un emplacement, et les petits objets peuvent être regroupés. Les emplacements sont abstraits et peuvent être réorganisés à la discrétion de l'Arbitre.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0HP.
+Les objets **volumineux** occupent deux emplacements, ils nécessitent généralement deux mains ou sont difficiles à transporter. Toute personne ayant un inventaire complet (par exemple, remplissant les 10 emplacements) est réduite à 0 PV.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+Un PJ ne peut pas transporter plus d'objets que son inventaire ne le permet. Les chariots (qui doivent être tirés à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  Les **mercenaires** peuvent également être payés pour transporter du matériel.
 
 #### Starting Gear
 All PCs begin with:
