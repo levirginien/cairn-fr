@@ -591,32 +591,32 @@ If you would like something closer to traditional classes, refer to the list of 
 [back to index](#index)
 <p></p>
 
-## Rules
-**Abilities**  
-Each of the three **abilities** are used in different circumstances (see **saves** , below).
+## Règles
+**Caractéristiques**  
+Chacune des trois **caractéristiques** est utilisée dans des circonstances différentes (voir les **sauvegardes** , ci-dessous).
 
-**Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Force (FOR**) : Utilisée pour les sauvegardes nécessitant de la puissance physique, comme soulever des portes, plier des barres, résister au poison, etc.
 
-**Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Dextérité (DEX) : Utilisée pour les sauvegardes nécessitant de l'équilibre, de la vitesse et des réflexes, comme esquiver, grimper, se faufiler, se tenir en équilibre, etc.
 
-**Willpower** (WIL): Used for saves to persuade,deceive,interrogate,intimidate, charm,provoke,manipulate spells,etc.
+**Volonté** (VOL) :Utilisée pour les sauvegardes visant à persuader, tromper, interroger, intimider, charmer, provoquer, manipuler des sorts, etc.
 
-**Saves**  
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+**Sauvegardes**  
+Une sauvegarde est un jet pour éviter les mauvais résultats de choix et de circonstances risqués. Les PJs lancent un d20 face au score de caractéristique approprié. S'il obtient un résultat égal ou inférieur à ce score de caractéristique, il réussit. Sinon, il échoue. Un 1 est toujours un succès, et un 20 est toujours un échec. 
 
-**Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+**Exemple:** _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur détermine soigneusement une route, reconnaissant que son DEX de 13 fait que se faufiler derrière discrètement derrière les gardes est sa meilleure option. . Elle lance un d20, et obtient un 10 - un succès!_ _
 
-**Deprivation & Fatigue**  
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+**Privation et fatigue  
+Un PC **privé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses points de caractéristiques. Toute personne privée pendant plus d'un jour ajoute des **Fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce qu'il soit capable de récupérer (comme une nuit complète de repos dans un endroit sûr).  
+Les PJs peuvent également gagner de la Fatigue en **lancant des sorts** ou à cause d'événements de la fiction.
 
-**Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+**Guérison**  
+Se reposer pendant quelques instants et boire de l'eau restaure les PV perdus mais laisse le groupe exposé. La perte de points de caractéristiques peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services peuvent être gratuits, tandis que des moyens plus rapides ou magiques de récupération peuvent avoir un coût.
 
-**Armor**  
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+**Armure**  
+Avant de retirer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
+Personne ne peut avoir plus de 3 points d'Armure.  
+Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
 **Reactions**  
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
