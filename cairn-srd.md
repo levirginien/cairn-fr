@@ -231,67 +231,67 @@ If you would like something closer to traditional classes, refer to the list of 
 |5           |Charpentier |10         |Chasseur     |15        |Hors-la-loi   |20    |Rôdeur    |
 <p></p>
 
-## Character Traits (d10)
+## Traits de personnage (d10)
 
 #### Physique
 
 |  |          |      |            |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1        | Athlétique | 6    | Maigre    |
+| 2        | Superbe   | 7    | Petit      |
+| 3        | Molasson   | 8    | Statuesque |
+| 4        | Maigre    | 9    | Costaud      |
+| 5        | Robuste   | 10   | Imposant   |
 
-#### Skin
+#### Peau
 
 |  |            |      |           |
 | ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 1    | Tache de naissance  | 6    | Lisse     |
+| 2    | Sombre       | 7    | Douce      |
+| 3    | Allongée  | 8    | Bronzée    |
+| 4    | Taches de rousseur | 9    | Tatouée  |
+| 5    | Rose       | 10   | Usée |
 
-#### Hair
+#### Cheveux
 
 |  |         |      |           |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1    | Chauve    | 6    | Longs      |
+| 2    | Tressés | 7    | Luxuriants |
+| 3    | Bouclés   | 8    | Huileux      |
+| 4    | Crasseux  | 9    | Ondulés      |
+| 5    | Frisés  | 10   | Clairsemés     |
 
-#### Face
+#### Visage
 
 |  |           |      |          |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1    | Osseux      | 6    | Parfait  |
+| 2    | Brisé    | 7    | Face de rat |
+| 3    | Ciselé  | 8    | Pointu    |
+| 4    | Allongé | 9    | Carré   |
+| 5    | Pale      | 10   | Creusé   |
 
-#### Speech
+#### Paroles
 
 |  |         |      |            |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1      | Brusques   | 6    | Graveleuses   |
+| 2      | Explosives | 7    | Précises    |
+| 3      | Cryptiques | 8    | Grinçantes    |
+| 4      | Bourdonnantes | 9    | Bégayantes |
+| 5      | Formelles  | 10   | Chuchotantes   |
 
-#### Clothing
+#### Vêtements
 
 |  |         |      |        |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1        | Anciens | 6    | Effilochés |
+| 2        | Sanglants  | 7    | Mal fagoté |
+| 3        | Elégant | 8    | Bien habillé |
+| 4        | Dégoûtants  | 9    | Rances |
+| 5        | Etrangers | 10   | Souillés |
 
 #### Virtue
 
