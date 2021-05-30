@@ -293,45 +293,45 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4        | Dégoûtants  | 9    | Rances |
 | 5        | Etrangers | 10   | Souillés |
 
-#### Virtue
+#### Vertue
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1      | Ambition   | 6    | Honeur |
+| 2      | Prudence    | 7    | Humilité    |
+| 3      | Courage  | 8    | Miséricorde  |
+| 4      | Discipline | 9    | Sérénité    |
+| 5      | Communauté  | 10   | Tolérence  |
 
 #### Vice
 
-|  |            |      |          |
+| | | | |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1 | Agressivité | 6 | Paresse |
+| 2 | Amertume | 7 | Nervosité |
+| 3 | Lacheté | 8 | Grossièreté |
+| 4 | Tromperie | 9 | Vanité |
+| 5 | Avarice | 10 | Vengeance
 
-#### Reputation
+#### Réputation
 
-|  |             |      |           |
+| | | | |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 1 | Ambitieuse | 6 | Flâneuse |
+| 2 | Rustre | 7 | Excentrique |
+| 3 | Dangereuse | 8 | Répugnante |
+| 4 | Divertissante | 9 | Respectée |
+| 5 | Honnête | 10 | Savante |
 
-#### Misfortunes
+#### Malheurs
 
-|  |             |      |             |
+| | | | |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1 | Abandon | 6 | Escroquerie |
+| 2 | Dépendance | 7 | Rétrogradation |
+| 3 | Chantage | 8 | Discrédit |
+| 4 | Condamnation | 9 | Désaveu |
+| 5 | Malédiction | 10 | Exil |
 
 <p></p>
 
