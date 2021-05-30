@@ -344,14 +344,14 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |  1-3  |    4-14    |   15-19   |  20   |
 | Aucune  | Brigandine | Cotte de mailles | Harnois |
 
-#### Helmets & Shields
+#### Casques et boucliers
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
 |       Aucun        | Casque | Bouclier | Casque & bouclier |
 
-#### Weapons
+#### Armes
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
@@ -368,7 +368,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 4                  | Chaîne (10 pi.)                       | 9    | Gros piège              | 14   | Poulie        | 19   | Allume-feu             |
 | 5                  | Baguette de sourcier                  | 10   | Crochets à serrure      | 15   | Répulsif      | 20   | Aconit tue-loup        |
 
-#### Tools
+#### Outils
 
 |||||
 |------|-----------|------|-----------|
@@ -378,7 +378,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |4  |Chalk      |9  |FishingRod |
 |5  |Chisel     |10 |Glue       |
 
-#### Trinkets
+#### Babioles
 
 |||||
 |------|-----------|------|-----------|
