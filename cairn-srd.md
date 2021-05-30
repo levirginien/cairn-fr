@@ -335,38 +335,38 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 <p></p>
 
-## Starting Gear (d20)
+## Équipement de départ (d20)
 
-#### Armor
+#### Armure
 
 |  |            |           |       |
 | :---: | :--------: | :-------: | :---: |
 |  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| Aucune  | Brigandine | Cotte de mailles | Harnois |
 
 #### Helmets & Shields
 
 |  |        |        |                 |
 | :---------------: | :----: | :----: | :-------------: |
 |       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       Aucun        | Casque | Bouclier | Casque & bouclier |
 
 #### Weapons
 
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| Dague, gourdin, bâton | Épée, mace, hache | Arc long, arbalète, fronde | Hallebarde, marteau de guerre, hache de guerre |
 
-#### Expeditionary Gear
+#### Équipment d'expédition
 
 |  |                        |      |                |      |             |      |             |
-| ------------------ | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1                  | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2                  | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3                  | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4                  | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5                  | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| ------------------ | ------------------------------------- | ---- | ----------------------- | ---- | ------------- | ---- | ---------------------- |
+| 1                  | Poche d'air                           | 6    | Huile                   | 11   | Menottes      | 16   | Corde (25 pi.)         |
+| 2                  | Contrepoison                          | 7    | Grappin                 | 12   | Pique         | 17   | Protection spirituelle |
+| 3                  | Chariot (+4 emplacements, encombrant) | 8    | Gros sac                | 13   | Pôle (10 pi.) | 18   | Lunette d'approche     |
+| 4                  | Chaîne (10 pi.)                       | 9    | Gros piège              | 14   | Poulie        | 19   | Allume-feu             |
+| 5                  | Baguette de sourcier                  | 10   | Crochets à serrure      | 15   | Répulsif      | 20   | Aconit tue-loup        |
 
 #### Tools
 
