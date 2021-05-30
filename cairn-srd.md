@@ -172,24 +172,24 @@ Les objets **volumineux** occupent deux emplacements, ils nécessitent général
 
 Un PJ ne peut pas transporter plus d'objets que son inventaire ne le permet. Les chariots (qui doivent être tirés à deux mains), les chevaux ou les mules peuvent augmenter l'inventaire.  Les **mercenaires** peuvent également être payés pour transporter du matériel.
 
-#### Starting Gear
-All PCs begin with:
+#### Équipement de départ
+Tous les PJs commencent avec :
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Trois jours de rations (un emplacement)
+- Une torche (un emplacement)
+- 3d6 pièces d'or
 
-Roll on the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place,and one as the tens place).
+Faites un jet sur les tableaux **Équipement de départ** pour déterminer l'armure, les armes, les outils et l'équipement de votre PJ. Si cela est indiqué, lancez un dé sur le tableau [**Livres de sorts**](#spellbooks-d100) avec un d100 (ou lancez 2d10, en utilisant un dé pour les dizaines et un dé pour les unités).
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Consultez la **Liste d'équipement** pour connaître les valeurs d'armure, de dégâts et d'emplacement correspondantes. Les objets plus petits peuvent parfois être regroupés dans un seul emplacement.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+Si vous souhaitez quelque chose de plus proche des classes traditionnelles, consultez la liste des [**Ensembles d'équipement optionnels**](#optional-gear-packages).
 
 <p></p>
 
-## Name & Background (d20)
+## Nom et historique (d20)
 
-#### Female Names
+#### Prénoms féminins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -200,7 +200,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 
-#### Male Names
+#### Prénoms masculins
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -210,7 +210,7 @@ If you would like something closer to traditional classes, refer to the list of 
 |4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
 |5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
-#### Surnames
+#### Noms de famille
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -293,7 +293,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4        | Dégoûtants  | 9    | Rances |
 | 5        | Etrangers | 10   | Souillés |
 
-#### Vertue
+#### Vertu
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
