@@ -320,7 +320,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 1 | Ambitieuse | 6 | Flâneuse |
 | 2 | Rustre | 7 | Excentrique |
 | 3 | Dangereuse | 8 | Répugnante |
-| 4 | Divertissante | 9 | Respectée |
+| 4 | Divertissante | 9 | Repectée |
 | 5 | Honnête | 10 | Savante |
 
 #### Malheurs
@@ -365,7 +365,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 | 1                  | Poche d'air                           | 6    | Huile                   | 11   | Menottes      | 16   | Corde (25 pi.)         |
 | 2                  | Contrepoison                          | 7    | Grappin                 | 12   | Pique         | 17   | Talisman               |
 | 3                  | Chariot (+4 emplacements, encombrant) | 8    | Gros sac                | 13   | Pôle (10 pi.) | 18   | Lunette d'approche     |
-| 4                  | Chaîne (10 pi.)                       | 9    | Gros piège              | 14   | Poulie        | 19   | Allume-feu             |
+| 4                  | Chaîne (10 pi.)                       | 9    | Gros piège              | 14   | Poulie        | 19   | Boîte à amadou         |
 | 5                  | Baguette de sourcier                  | 10   | Crochets à serrure      | 15   | Répulsif      | 20   | Aconit tue-loup        |
 
 #### Outils
