@@ -363,7 +363,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 |  |                        |      |                |      |             |      |             |
 | ------------------ | ------------------------------------- | ---- | ----------------------- | ---- | ------------- | ---- | ---------------------- |
 | 1                  | Poche d'air                           | 6    | Huile                   | 11   | Menottes      | 16   | Corde (25 pi.)         |
-| 2                  | Contrepoison                          | 7    | Grappin                 | 12   | Pique         | 17   | Protection spirituelle |
+| 2                  | Contrepoison                          | 7    | Grappin                 | 12   | Pique         | 17   | Talisman               |
 | 3                  | Chariot (+4 emplacements, encombrant) | 8    | Gros sac                | 13   | Pôle (10 pi.) | 18   | Lunette d'approche     |
 | 4                  | Chaîne (10 pi.)                       | 9    | Gros piège              | 14   | Poulie        | 19   | Allume-feu             |
 | 5                  | Baguette de sourcier                  | 10   | Crochets à serrure      | 15   | Répulsif      | 20   | Aconit tue-loup        |
@@ -372,28 +372,28 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 |||||
 |------|-----------|------|-----------|
-|1  |Bellows    |6  |Cook Pots  |
-|2  |Bucket     |7  |Crowbar    |
-|3  |Caltrops   |8  |Drill (Manual)|
-|4  |Chalk      |9  |FishingRod |
-|5  |Chisel     |10 |Glue       |
+|1  |Soufflet    |6  |Pots de cuisson  |
+|2  |Chaudière     |7  |Barre à clous    |
+|3  |Chausse-trappes   |8  |Vilbrequin|
+|4  |Craie      |9  |Canne à pêche |
+|5  |Ciseaux à bois     |10 |Colle       |
 
 #### Babioles
 
 |||||
 |------|-----------|------|-----------|
-|1  |Bottle     |6  |Horn       |
-|2  |Card Deck  |7  |Incense    |
-|3  |Dice Set   |8  |Instrument |
-|4  |Face Paint |9  |Lens       |
-|5  |Fake Jewels|10 |Marbles    |
+|1  |Bouteille     |6  |Corne à boire       |
+|2  |Paquet de cartes|7  |Encens    |
+|3  |Dés à jouer|8  |Instrument de musique |
+|4  |Maquillage |9  |Lentille       |
+|5  |Faux bijous|10 |Billes    |
 
-#### 																		Bonus Item (roll on table indicated)
+#### 																		Objet bonus (lancez les dés et consultez le tableau correspondant)
 
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Outil ou babiole | Équipement d'expédition | Armure ou arme | Livre de sort |
 
 <p></p>
 
