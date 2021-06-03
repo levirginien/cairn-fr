@@ -12,7 +12,7 @@ nav_order: 2
 Consultez le [repo](https://github.com/yochaigal/cairn) ou téléchargez le jeu dans d'autres [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (y compris Word, Affinity, Google Docs, etc).
 
 **Cairn** est un jeu d'aventure pour un·e facilitateur·trice (l'**Arbitre**) et au moins un·e autre joueur.euse.
-Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt sombre et mystérieuse, remplie d’étranges individus, de trésors cachés et de monstruosités innommables. 
+Le groupe-joueur incarne une bande aventureuse et agguerie explorant une forêt sombre et mystérieuse remplie d’étranges individus, de trésors cachés et de monstruosités innommables. 
 
 ## Index
 - [Vue d'ensemble](#vuedensemble)
