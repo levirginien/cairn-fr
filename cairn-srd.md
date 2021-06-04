@@ -397,7 +397,7 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Livres de sort (d100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
