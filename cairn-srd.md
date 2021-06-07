@@ -400,32 +400,32 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 #### 																						Livres de sort (d100)
 
 |||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|---|------------------------|---|-------------------------------|---|---------------------------|---|----------------------|
+|1  |Adhésion                |26 |Décharge primordiale           |51 |Illusion auditive          |76 |Pousser/Tirer         |
+|2  |Air liquide             |27 |Déguisement                    |52 |Illusion visuelle          |77 |Prison astrale        |
+|3  |Ancrage                 |28 |Déplacement                    |53 |Image miroir               |78 |Rayons X              |
+|4  |Animation d'objet       |29 |Désassemblage                  |54 |Injonction                 |79 |Réanimation           |
+|5  |Anthropomorphisme       |30 |Détection de la magie          |55 |Inversion corporelle       |80 |Remontée              |
+|6  |Appât fleurissant       |31 |Détection des pensées          |56 |Inversion gravitationnelle |81 |Répulsion             |
+|7  |Assourdissement         |32 |Élasticité                     |57 |Invocation cubique         |82 |Saut                  |
+|8  |Attache invisible       |33 |Embrouille                     |58 |Invocation d'idole         |83 |Scie fantastique      |
+|9  |Atténuation de la magie |34 |Entendre les murmures          |59 |Leurre                     |84 |Scrutation            |
+|10 |Attraction              |35 |Essaim                         |60 |Localisation               |85 |Sculpture élémentaire |
+|11 |Avarice                 |36 |Extinction                     |61 |Manse                      |86 |Soin des blessures    |
+|12 |Babillage               |37 |Fièvre des billes              |62 |Marque du sorcier          |87 |Sommeil               |
+|13 |Bouclier                |38 |Flaire                         |63 |Mascarade                  |88 |Spectacle             |
+|14 |Bras multiples          |39 |Forme bestiale                 |64 |Miniaturisation            |89 |Sphère Nocturne       |
+|15 |Buisson                 |40 |Forme fumante                  |65 |Mirage                     |90 |Suspension            |
+|16 |Célérité                |41 |Forme visqueuse                |66 |Mur élémentaire            |91 |Télékinésie           |
+|17 |Cercle de protection    |42 |Fosse                          |67 |Nuage de brouillard        |92 |Télépathie            |
+|18 |Charme                  |43 |Frénésie                       |68 |Objectification            |93 |Téléportation         |
+|19 |Compréhension           |44 |Fusée éclairante               |69 |Oeil magique               |94 |Toiles d'araignée     |
+|20 |Cône de mousse          |45 |Graisse                        |70 |Pacification               |95 |Toucher glacial       |
+|21 |Contact spirituel       |46 |Gribouillage                   |71 |Passe-miroir               |96 |Tremblement de terre  |
+|22 |Contrôle de la météo    |47 |Haine                          |72 |Pattes d'araignées         |97 |Triage                |
+|23 |Contrôle des plantes    |48 |Hypnose                        |73 |Permutation                |98 |Vision suprême        |
+|24 |Contrôle temporel       |49 |Identification de propriétaire |74 |Phobie                     |99 |Voile                 |
+|25 |Déblocage               |50 |Illumination                   |75 |Portail                    |100|Vol à la tire         |
 
 <p></p>
 
