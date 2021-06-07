@@ -812,60 +812,60 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 [back to index](#index)
 <p></p>
 
-## 100 Spells
+## 100 Sorts
 
 |      |                   |                                                              |
 | ---- | ----------------- | ------------------------------------------------------------ |
-| 1    | Adhere            | An object is covered in extremely sticky slime.              |
-| 2    | Anchor            | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | Animate Object    | An object obeys your commands as best it can.                |
-| 4    | Anthropomorphize  | An animal either gains human intelligence or human appearance for one day. |
-| 5    | Arcane Eye        | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | Astral Prison     | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | Attract           | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | Auditory Illusion | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | Babble            | A creature must loudly and clearly repeat everything you think It is otherwise mute. |
-| 10   | Bait Flower       | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | Beast Form        | You and your possessions transform into a mundane animal.    |
-| 12   | Befuddle          | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | Body Swap         | You switch bodies with a creature you touch If one body dies, the other dies as well. |
-| 14   | Charm             | A creature you can see treats you as a friend.               |
-| 15   | Comprehend        | You become fluent in all languages for a short while.        |
-| 16   | Command           | A target obeys a single three-word command that does not cause it harm. |
-| 17   | Cone of Foam      | Dense foam sprays from your hand, coating the target.        |
-| 18   | Control Plants    | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | Control Weather   | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | Cure Wounds       | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | Deafen            | All nearby creatures are deafened.                           |
-| 22   | Detect Magic      | You can see or hear nearby magical auras.                    |
-| 23   | Disassemble       | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | Disguise          | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
-| 25   | Displace          | An object appears to be up to 15ft from its actual position. |
-| 26   | Earthquake        | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | Elasticity        | Your body can stretch up to 10ft.                            |
-| 28   | Elemental Wall    | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | Filch             | A visible item teleports to your hands.                      |
-| 30   | Flare             | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | Fog Cloud         | A dense fog spreads out from you.                            |
-| 32   | Frenzy            | A nearby creature erupts in a frenzy of violence.            |
-| 33   | Gate              | A portal to a random plane opens.                            |
-| 34   | Gravity Shift     | You can change the direction of gravity, but only for yourself. |
-| 35   | Greed             | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | Haste             | Your movement speed is tripled.                              |
-| 37   | Hatred            | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | Hear Whispers     | You can hear faint sounds clearly.                           |
-| 39   | Hover             | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | Hypnotize         | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | Icy Touch         | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | Identify Owner    | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | Illuminate        | A floating light moves as you command.                       |
-| 44   | Invisible Tether  | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | Knock             | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | Leap              | You jump up to 10ft high, once.                              |
-| 47   | Liquid Air        | The air around you becomes swimmable .                       |
-| 48   | Magic Dampener    | All nearby magical effects have their effectiveness halved.  |
-| 49   | Manse             | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
-| 50   | Marble Craze      | Your pockets are full of marbles, and will refill every 30 seconds. |
+| 1    | Adhésion            | Un objet est recouvert d'une substance visqueuse extrêmement collante.                   |
+| 2    | Air liquide          | Il vous est possible de nager dans l'air autour de vous.      |
+| 3    | Ancrage   | De puissants cables jaillissent de vos bras  et se fixent à deux points dans un rayon de 15 mètres.  |
+| 4    | Animation d'objet  | Un objet obéit à vos ordres du mieux qu'il peut.|
+| 5    | Anthropomorphisme        | Un animal acquiert l'intelligence ou l'apparence humaine pendant un jour. |
+| 6    | Appât fleurissant   | Une plante jaillit du sol et dégage une odeur de chair en décomposition. |
+| 7    | Assourdissement           | Les créatures à proximité sont assourdies. |
+| 8    | Attache invisible | Deux objets situés à 3 mètres l'un de l'autre ne peuvent pas être éloignés à plus de 3 mètres l'un de l'autre. |
+| 9    | Atténuation de la magie            | L'efficacité de tous les effets magiques à proximité est réduite de moitié.  |
+| 10   | Attraction     | Deux objets sont fortement attirés l'un vers l'autre s'ils se rapprochent à moins de 3 mètres. |
+| 11   | Avarice       | Une créature développe l'envie irrésistible de posséder un objet visible de votre choix.   |
+| 12   | Babillage          | Une créature doit répéter bruyamment et clairement tout ce que vous pensez. Elle est autrement muette.  |
+| 13   | Bouclier         | Une créature que vous touchez est protégée des attaques ordinaires pendant une minute. |
+| 14   | Bras multiples             | Vous gagnez temporairement un bras supplémentaire.                    |
+| 15   | Buisson        | Un fourré d'arbres et de broussailles denses jusqu'à 15 mètres de large pousse soudainement.         |
+| 16   | Célérité           | Votre vitesse de déplacement est triplée. |
+| 17   | Cercle de protection     | Un cercle argenté de 15 mètres de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser.       |
+| 18   | Charme   | Une créature que vous pouvez voir vous traite comme un ami.  |
+| 19   | Compréhension  | Vous parlez aisément toutes les langues pendant un court moment. |
+| 20   | Cône de mousse       | Une mousse dense jaillit de votre main et recouvre la cible.        |
+| 21   | Contact spirituel| L'esprit d'un cadavre se manifeste et répond à une question.                          |
+| 22   | Contrôle de la météo     | Vous pouvez modifier le type de météo à volonté, mais vous ne pouvez pas la contrôler autrement.          |
+| 23   | Contrôle des plantes      | Les plantes et les arbres à proximité vous obéissent et acquièrent la capacité de se déplacer à un rythme lent.  |
+| 24   | Contrôle temporel          | Le temps dans une bulle de 15 mètres de diamètre ralentit ou accélère de 10 % pendant 30 secondes. |
+| 25   | Déblocage          | Une serrure ordinaire ou magique à proximité se déverrouille bruyamment.  |
+| 26   | Décharge primordiale        | Une créature évolue rapidement en une version future de son espèce. |
+| 27   | Déguisement        | Vous pouvez modifier l'apparence d'un personnage à volonté tant qu'il reste humanoïde. Toute tentative d'imitation d'un autre personnage semblera surnaturelle.                           |
+| 28   | Déplacement    | Un objet semble être jusqu'à 4.5 mètres de sa position actuelle.  |
+| 29   | Désassemblage             | Tous vos membres peuvent être détachés et rattachés sans douleur ou risque de blessure. Ils sont toujours sous votre contrôle.                      |
+| 30   | Détection de la magie             | Vous pouvez voir ou entendre les auras magiques à proximité. |
+| 31   | Détection des pensées         | Vous pouvez entendre les pensées en surface des créatures à proximité.                           |
+| 32   | Élasticité            | Votre corps peut s'étirer jusqu'à 3 mètres.          |
+| 33   | Embrouille              | Une créature de votre choix est incapable de former de nouveaux souvenirs à court terme pour la durée du sort.                            |
+| 34   | Entendre les murmures     | Vous pouvez entendre clairement des sons faibles.  |
+| 35   | Essaim             | Vous devenez un essaim de corbeaux, de rats ou de piranhas Vous ne pouvez être blessé que par des attaques explosives. |
+| 36   | Extinction             |  La source de toute lumière ordinaire que vous pouvez voir est instantanément éteinte.                          |
+| 37   | Fièvre des billes            | Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes.  |
+| 38   | Flaire    | Vous pouvez sentir les plus infimes traces d'odeurs.                           |
+| 39   | Forme bestiale             | Vous et votre équipement vous transformez en un animal.  |
+| 40   | Forme fumante         | Votre corps devient une fumée vivante que vous pouvez contrôler.  |
+| 41   | Forme visqueuse         | Vous devenez une gelée vivante.  |
+| 42   | Fosse    | Une fissure de 3 mètres de large et de 3 mètres de profondeur s'ouvre dans le sol.       |
+| 43   | Frénésie        | Une créature à proximité se déchaîne dans une frénésie de violence.                    |
+| 44   | Fusée éclairante  | Une boule d'énergie lumineuse projette une traînée de lumière dans le ciel, révélant votre position à vos alliés ou à vos ennemis. |
+| 45   | Graisse             | Toutes les surfaces dans un rayon de 9 mètres deviennent extrêmement glissantes.              |
+| 46   | Gribouillage              | Une version primitive d'un outil ou d'un objet dessiné apparaît devant vous, et disparaît après un court instant.                              |
+| 47   | Haine        | Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire.                        |
+| 48   | Hypnose    | Une créature entre en transe et répondra sincèrement par oui ou par non à une question que vous lui posez.  |
+| 49   | Identification de propriétaire             | Des lettres apparaissent sur l'objet que vous touchez, épelant le nom des propriétaires de l'objet, s'il y en a. |
+| 50   | Illumination      | Une lumière flottante se déplace à votre guise. |
 | 51   | Masquerade        | A characters appearance and voice becomes identical to those of a character you touch. |
 | 52   | Miniaturize       | A creature you touch is shrunk down to the size of a mouse.  |
 | 53   | Mirror Image      | An illusory duplicate of yourself appears and is under your control. |
