@@ -866,26 +866,26 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 48   | Hypnose    | Une créature entre en transe et répondra sincèrement par oui ou par non à une question que vous lui posez.  |
 | 49   | Identification de propriétaire             | Des lettres apparaissent sur l'objet que vous touchez, épelant le nom des propriétaires de l'objet, s'il y en a. |
 | 50   | Illumination      | Une lumière flottante se déplace à votre guise. |
-| 51   | Masquerade        | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | Miniaturize       | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | Mirror Image      | An illusory duplicate of yourself appears and is under your control. |
-| 54   | Mirrorwalk        | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | Multiarm          | You temporarily gain an extra arm.                           |
-| 56   | Night Sphere      | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | Objectify         | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | Ooze Form         | You become a living jelly.                                   |
-| 59   | Pacify            | A creature near you has an aversion to violence.             |
-| 60   | Phobia            | A nearby creature becomes terrified of an object of your choice. |
-| 61   | Pit               | A pit 10ft wide and 10ft deep opens in the ground.             |
-| 62   | Primal Surge      | A creature rapidly evolves into a future version of its species. |
-| 63   | Push/Pull         | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | Raise Dead        | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | Raise Spirit      | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | Read Mind         | You can hear the surface thoughts of nearby creatures.       |
-| 67   | Repel             | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | Scry              | You can see through the eyes of a creature you touched earlier today. |
-| 69   | Sculpt Elements   | Inanimate material behaves like clay in your hands.          |
-| 70   | Sense             | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
+| 51   | Illusion auditive | Vous créez des sons illusoires qui semblent provenir de la direction de votre choix. |
+| 52   | Illusion visuelle       | Une illusion silencieuse, immobile et de la taille d'une pièce de ton choix apparaît.  |
+| 53   | Image miroir     | Un double illusoire de vous-même apparaît et est sous votre contrôle. |
+| 54   | Injonction        | Une cible obéit à un ordre unique de trois mots qui ne lui cause aucune blessure. |
+| 55   | Inversion corporelle | Vous échangez votre corps contre celui d'une créature que vous touchez. Si un corps meurt, l'autre meurt aussi. |
+| 56   | Inversion gravitationnelle     | Vous pouvez changer la direction de la gravité, mais seulement pour vous. |
+| 57   | Invocation cubique         | Une fois par seconde, vous pouvez invoquer ou faire disparaître un cube de terre de 1 mètre d'arête. Les nouveaux cubes doivent être fixés à la terre ou à d'autres cubes. |
+| 58   | Invocation d'idole       | Une statue en pierre taillée de la taille d'une mule sort du sol.                                   |
+| 59   | Leurre            | Un objet que vous touchez devient la cible de tout sort à proximité.             |
+| 60   | Localisation            | Choisissez un type d'objet (clé, or, flèche, cruche, etc.). Vous pouvez sentir l'exemple le plus proche.  |
+| 61   | Manse               |Un chalet solide et meublé apparaît pendant des heures. Vous pouvez en autoriser et en interdire l'entrée à volonté.           |
+| 62   | Marque du sorcier    | Votre doigt peut projeter un jet de peinture d'une couleur impossible. Cette peinture n'est visible que par vous et peut être vue à n'importe quelle distance, même à travers des objets solides. |
+| 63   | Mascarade       | L'apparence et la voix d'un personnage deviennent identiques à celles d'un personnage que vous touchez. |
+| 64   | Miniaturisation       | Une créature que tu touches est réduite à la taille d'une souris.   |
+| 65   | Mirage     | Vous contrôlez complètement ce qu'une créature voit.   |
+| 66   | Mur élémentaire       | Un mur droit de glace ou de feu de 15 mètres de long et de 3 mètres de haut s'élève du sol.       |
+| 67   | Nuage de brouillard             | Un épais brouillard émane de vous et vous enveloppe. |
+| 68   | Objectification              | Vous devenez un objet inanimé de la taille d'un piano à queue à celle d'une pomme. |
+| 69   | Oeil magique   | Vous pouvez voir à travers un oeil flottant qui vole à votre demande.          |
+| 70   | Pacification             | Une créature à proximité développe une aversion pour la violence.     |
 | 71   | Shield            | A creature you touch is protected from mundane attacks for one minute. |
 | 72   | Shroud            | A creature you touch is invisible until they move.           |
 | 73   | Shuffle           | Two creatures you can see instantly switch places.           |
