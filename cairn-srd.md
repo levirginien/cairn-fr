@@ -886,36 +886,35 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 68   | Objectification              | Vous devenez un objet inanimé de la taille d'un piano à queue à celle d'une pomme. |
 | 69   | Oeil magique   | Vous pouvez voir à travers un oeil flottant qui vole à votre demande.          |
 | 70   | Pacification             | Une créature à proximité développe une aversion pour la violence.     |
-| 71   | Shield            | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | Shroud            | A creature you touch is invisible until they move.           |
-| 73   | Shuffle           | Two creatures you can see instantly switch places.           |
-| 74   | Sleep             | A creature you can see falls into a light sleep.             |
-| 75   | Slick             | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | Smoke Form        | Your body becomes a living smoke that you can control.  |
-| 77   | Sniff             | You can smell even the faintest traces of scents.            |
-| 78   | Snuff             | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | Sort              | Inanimate items sort themselves according to categories you set. |
-| 80   | Spectacle         | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | Spellsaw          | A whirling blade flies from your chest, clearing any plant material in its way It is otherwise harmless. |
-| 82   | Spider Climb      | You can climb surfaces like a spider.                        |
-| 83   | Summon Cube       | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84   | Swarm             | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | Telekinesis       | You may mentally 1 move item under 60lbs.                      |
-| 86   | Telepathy         | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | Teleport          | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | Target Lure       | An object you touch becomes the target of any nearby spell.  |
-| 89   | Thicket           | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | Summon Idol       | A carved stone statue the size of a mule rises from the ground. |
-| 91   | Time Control      | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | True Sight        | You see through all nearby illusions.                        |
-| 93   | Upwell            | A spring of seawater appears.                                |
-| 94   | Vision            | You completely control what a creature sees.                 |
-| 95   | Visual Illusion   | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | Ward              | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | Web               | Your wrists shoot thick webbing.                             |
-| 98   | Widget            | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | Wizard Mark       | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | X-Ray Vision      | You can see through walls, dirt, clothing, etc.              |
+| 71   | Passe-miroir            | Un miroir devient une passerelle vers un autre miroir dans lequel vous avez regardé aujourd'hui. |
+| 72   | Pattes d'araignée            | Vous pouvez grimper sur des surfaces comme une araignée.          |
+| 73   | Permutation           | Deux créatures que vous pouvez voir changent instantanément de place.             |
+| 74   | Phobie             | Une créature à proximité devient terrifiée par un objet de votre choix.              |
+| 75   | Portail             | Un portail vers un plan d'existence aléatoire s'ouvre.   |
+| 76   | Pousser/Tirer        | Un objet de n'importe quelle taille est tiré directement vers vous ou repoussé directement loin de vous avec la force d'un seul homme.  |
+| 77   | Prison astrale             | Un objet est gelé dans le temps et l'espace dans une carapace de cristal invulnérable.       |
+| 78   | Rayons X             | Vous pouvez voir à travers les murs, la saleté, les vêtements, etc.|
+| 79   | Réanimation              | Un squelette sort du sol pour vous servir. Ils sont incroyablement stupides et ne peuvent obéir qu'à des ordres simples. |
+| 80   | Remontée         | Une source d'eau de mer apparaît.      |
+| 81   | Répulsion          | Deux objets sont fortement repoussés l'un de l'autre à une distance de 3 mètres. |
+| 82   | Saut     | Vous sautez une fois jusqu'à 3 mètres de haut.                       |
+| 83   | Scie fantastique       | Une lame tourbillonnante s'envole de votre poitrine, dégageant toute matière végétale sur son passage. Elle est autrement inoffensive. |
+| 84   | Scrutation             | Vous pouvez voir à travers les yeux d'une créature que vous avez touché plus tôt dans la journée.  |
+| 85   | Sculpture élémentaire       | Un matériau inanimé se comporte comme de l'argile entre vos mains.                      |
+| 86   | Soin des blessures         | Redonne 1d4 FOR par jour à une créature que vous touchez.  |
+| 87   | Sommeil          | Une créature que vous pouvez voir tombe dans un léger sommeil.           |
+| 88   | Spectacle      | Une illusion clairement fausse mais impressionnante de votre choix apparaît, sous votre contrôle. Elle peut avoir jusqu'à la taille d'un palais et est dotée de mouvements et de sons. |
+| 89   | Sphère nocturne           | Une sphère d'obscurité de 15 mètres de diamètre illustrant le ciel nocturne apparaît devant vous.  |
+| 90   | Suspension      | Un objet plane, sans friction, à 50 centimètres au-dessus du sol. Il peut supporter un humanoïde.  |
+| 91   | Télékinésie     | Vous pouvez mentalement déplacer 1 objet de moins de 60lbs.         |
+| 92   | Télépathie      | Deux créatures peuvent entendre les pensées de l'autre, quelle que soit la distance qui les sépare.                       |
+| 93   | Téléportation            | Un objet ou une personne que vous pouvez voir est transporté d'un endroit à un autre dans un rayon de 15 mètres.                                |
+| 94   | Toiles d'araignée            | Vos poignets projettent d'épaisses toiles.            |
+| 95   | Toucher glacial   | Une épaisse couche de glace se répand sur la surface touchée, jusqu'à 3 mètres de rayon. |
+| 96   | Tremblement de terre              |Le sol se met à trembler violemment. Les structures peuvent s'effrondrer ou être endommagées.  |
+| 97   | Triage               | Les objets inanimés se trient selon les catégories que vous avez définies.                            |
+| 98   | Vision suprême            |Vous voyez à travers toutes les illusions à proximité.  |
+| 100  | Voile      | Une créature que vous touchez devient invisible jusqu'à ce qu'elle bouge.             |
 
 [back to index](#index)
 <p></p>
