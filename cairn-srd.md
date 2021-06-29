@@ -618,19 +618,19 @@ Avant de retirer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la
 Personne ne peut avoir plus de 3 points d'Armure.  
 Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
-**Reactions**  
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+**Réactions**  
+Lorsque la réaction d'un PNJ face au groupe n'est pas immédiatement évidente, l'Arbitre peut lancer 2d6 et consulter le tableau suivant:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| Hostilité | Méfiance | Curiosité | Complaisance | Serviabilité |
 
-**Morale**  
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0HP. Morale does not affect PCs.
+**Moral**  
+Les ennemis doivent réussir un jet de sauvegarde de VOL pour éviter de fuir lorsqu'ils subissent leur première perte et à nouveau lorsqu'ils perdent la moitié de leur effectif. Certains groupes peuvent utiliser la VOL de leur chef. Les ennemis solitaires doivent réussir un jet de sauvegarde lorsqu'ils sont réduits à 0 PV. Le moral n'affecte pas les PJs.
 
-**Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+**Mercenaires**  
+Les PJs peuvent engager des **mercenaires** pour les aider dans leurs expéditions. Pour créer un mercenaire, lancez 3d6 pour caractéristiques, puis donnez-lui 1d6 PV et une arme simple (d6). Utilisez ensuite les tableaux [**Création de personnage**](#creationdepersonnage) pour l'étoffer davantage. Les mercenaires coûtent entre 1 et 3 po par jour, ou une part de tout trésor obtenu par le groupe.
 
 **Wealth & Treasure**  
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
