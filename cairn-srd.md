@@ -595,26 +595,26 @@ Si vous souhaitez quelque chose de plus proche des classes traditionnelles, cons
 **Caractéristiques**  
 Chacune des trois **caractéristiques** est utilisée dans des circonstances différentes (voir les **sauvegardes** , ci-dessous).
 
-**Force (FOR**) : Utilisée pour les sauvegardes nécessitant de la puissance physique, comme soulever des portes, plier des barres, résister au poison, etc.
+**Force (FOR)** : Utilisée pour les sauvegardes nécessitant de la puissance physique, comme soulever des portes, plier des barres, résister au poison, etc.
 
-**Dextérité (DEX) : Utilisée pour les sauvegardes nécessitant de l'équilibre, de la vitesse et des réflexes, comme esquiver, grimper, se faufiler, se tenir en équilibre, etc.
+**Dextérité (DEX)** : Utilisée pour les sauvegardes nécessitant de l'équilibre, de la vitesse et des réflexes, comme esquiver, grimper, se faufiler, se tenir en équilibre, etc.
 
-**Volonté** (VOL) :Utilisée pour les sauvegardes visant à persuader, tromper, interroger, intimider, charmer, provoquer, manipuler des sorts, etc.
+**Volonté (VOL)** :Utilisée pour les sauvegardes visant à persuader, tromper, interroger, intimider, charmer, provoquer, manipuler des sorts, etc.
 
 **Sauvegardes**  
 Une sauvegarde est un jet pour éviter les mauvais résultats de choix et de circonstances risqués. Les PJs lancent un d20 face au score de caractéristique approprié. S'il obtient un résultat égal ou inférieur à ce score de caractéristique, il réussit. Sinon, il échoue. Un 1 est toujours un succès, et un 20 est toujours un échec. 
 
-**Exemple:** _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur détermine soigneusement une route, reconnaissant que son DEX de 13 fait que se faufiler derrière discrètement derrière les gardes est sa meilleure option. . Elle lance un d20, et obtient un 10 - un succès!_ _
+**Exemple:** _Bea rencontre un groupe de Gobelins lourdement armés qui montent la garde devant l'entrée d'un tunnel. Son joueur détermine soigneusement une route, reconnaissant que son DEX de 13 fait que se faufiler derrière discrètement derrière les gardes est sa meilleure option. Elle lance un d20, et obtient un 10 - un succès!_ _
 
-**Privation et fatigue  
-Un PC **privé** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses points de caractéristiques. Toute personne privée pendant plus d'un jour ajoute des **Fatigues** à son inventaire, une pour chaque jour. Chaque Fatigue occupe un emplacement et dure jusqu'à ce qu'il soit capable de récupérer (comme une nuit complète de repos dans un endroit sûr).  
-Les PJs peuvent également gagner de la Fatigue en **lancant des sorts** ou à cause d'événements de la fiction.
+**Carence et fatigue**  
+Un PJ en **Carence** d'un besoin crucial (comme la nourriture ou le repos) est incapable de récupérer ses PV ou ses points de caractéristiques. Toute personne en carence pendant plus d'une journée ajoute des **Épuisements** à son inventaire, un pour chaque jour. Chaque Épuisement occupe un emplacement jusqu'à ce qu'elle soit capable de se reposer (comme une nuit complète de repos dans un endroit sûr).  
+Les PJs ajoutent également de l'Épuisement à leur inventaire en **lancant des sorts** ou à cause d'événements narratifs.
 
 **Guérison**  
-Se reposer pendant quelques instants et boire de l'eau restaure les PV perdus mais laisse le groupe exposé. La perte de points de caractéristiques peut généralement être restaurée avec une semaine de repos facilitée par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services peuvent être gratuits, tandis que des moyens plus rapides ou magiques de récupération peuvent avoir un coût.
+Se reposer pendant quelques instants et boire de l'eau guérit les PV perdus mais laisse le groupe exposé. Les points de caractéristique perdus peuvent généralement être regagnés avec une semaine de repos facilité par un guérisseur ou une autre source d'expertise appropriée. Certains de ces services peuvent être gratuits, tandis que des moyens plus rapides ou magiques peuvent avoir un coût.
 
 **Armure**  
-Avant de retirer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la cible du résultat des jets de dégâts. Les boucliers et les armures similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
+Avant de retirer les dégâts aux PV, soustrayez la valeur de l'**Armure** de la cible au résultat des jets de dégâts. Les boucliers et protections similaires offrent un bonus de défense (par exemple, +1 Armure), mais uniquement lorsque l'objet est tenu ou porté.  
 Personne ne peut avoir plus de 3 points d'Armure.  
 Les boucliers, gantelets et casques peuvent apporter des avantages supplémentaires en fonction de leur utilisation.
 
@@ -914,7 +914,9 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 96   | Tremblement de terre              |Le sol se met à trembler violemment. Les structures peuvent s'effrondrer ou être endommagées.  |
 | 97   | Triage               | Les objets inanimés se trient selon les catégories que vous avez définies.                            |
 | 98   | Vision suprême            |Vous voyez à travers toutes les illusions à proximité.  |
-| 100  | Voile      | Une créature que vous touchez devient invisible jusqu'à ce qu'elle bouge.             |
+| 99  | Voile      | Une créature que vous touchez devient invisible jusqu'à ce qu'elle bouge.             |
+| 100  | Vol à la tire      | Un objet que vous pouvez voir se téléporte dans vos mains.            |
+
 
 [back to index](#index)
 <p></p>
